@@ -1,6 +1,7 @@
 import React from 'react'
+import icon from '../assets/rotten-apple-icon.png'
 
-const Header = ({icon}) => {
+const Header = () => {
   return (
     <>
       <header className='flex items-center flex-col shadow-md shadow-black/30 gap-y-1.5'>
