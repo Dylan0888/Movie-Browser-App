@@ -1,4 +1,5 @@
 
 
 ## Live Preview 
-**Live Demo:** https://movie-browser-app-8egd.vercel.app/
+[movie-browser-app-8egd.vercel.app](https://movie-browser-app-8egd.vercel.app/)
+
