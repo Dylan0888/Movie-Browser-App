@@ -1,5 +1,5 @@
 import React from 'react'
-import icon from '../assets/rotten-apple-icon.png'
+import icon from '../assets/imgs/icon.png'
 
 const Header = () => {
   return (
