@@ -28,6 +28,7 @@ A dynamic movie browsing web application built with React that fetches real-time
 
 ## Project Structure 
 
+```
 movie-browser-app/
 ├── public/
 ├── src/
@@ -45,7 +46,6 @@ movie-browser-app/
 │   │            ├── HardCodedCard.jsx (Testing purposes, can remove)
 │   │            ├── Library.jsx
 │   │            └── MovieCard.jsx
-│   │
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── App.css
@@ -57,7 +57,7 @@ movie-browser-app/
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
-
+```
 
 ## Liscence 
 MIT License
