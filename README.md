@@ -26,6 +26,39 @@ A dynamic movie browsing web application built with React that fetches real-time
 - Designing responsive UI layouts using Tailwind CSS
 - Structuring scalable component-based React applications
 
+## Project Structure 
+
+movie-browser-app/
+├── public/
+├── src/
+│   ├── assets/
+│   │   ├── fonts/
+│   │   └── imgs/
+│   │       ├── MovieBrowserAppSS.png
+│   │       ├── dune.jpg
+│   │       ├── dune.webp
+│   │       └── icon.png
+│   ├── components/
+│   │       ├── Header.jsx
+│   │       └── movie/
+│   │            ├── Filters.jsx
+│   │            ├── HardCodedCard.jsx (Testing purposes, can remove)
+│   │            ├── Library.jsx
+│   │            └── MovieCard.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css
+│   └── index.css
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+
+
 ## Liscence 
 MIT License
 
