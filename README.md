@@ -2,7 +2,8 @@
 A dynamic movie browsing web application built with React that fetches real-time movie data from the TMDB API, allowing users to explore films, sort by ratings or release date, and browse through a responsive movie grid interface inspired by popular review platforms.
 
 ## Live Preview 
-[Click Here to view](https://movie-browser-app-8egd.vercel.app/)
+![App Preview](src/assets/imgs/MovieBrowserAppSS.png)
+[Click Here to View Live Preview](https://movie-browser-app-8egd.vercel.app/)
 
 ## Features 
 - Fetches real-time movie data from the TMDB API
