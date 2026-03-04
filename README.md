@@ -60,4 +60,4 @@ movie-browser-app/
 ```
 
 ## Liscence 
-MIT License - Copyright (c) [2026] [Dylan Jones]
+MIT License - Copyright (c) 2026 Dylan Jones
